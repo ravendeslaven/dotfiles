@@ -1,0 +1,3 @@
+[2020-06-16 00:50:55.031] [sharedprocess] [info] main {"machineId":"6a4134518b35e7294edcd48721c711ed76d9cfb4fc81b34e982ac6385271fb6d","windowId":2}
+[2020-06-16 00:50:55.092] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/raven/.config/Code/User/snippets'
+[2020-06-16 00:51:35.064] [sharedprocess] [info] Starting to clean up unused language packs.

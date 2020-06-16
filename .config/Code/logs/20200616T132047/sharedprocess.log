@@ -1,0 +1,8 @@
+[2020-06-16 13:20:52.069] [sharedprocess] [info] main {"machineId":"6a4134518b35e7294edcd48721c711ed76d9cfb4fc81b34e982ac6385271fb6d","windowId":2}
+[2020-06-16 13:21:32.092] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-16 15:47:43.274] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-16 15:47:57.940] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/74a0024d-7557-49fe-988d-62e78fb7a36b
+[2020-06-16 15:48:02.735] [sharedprocess] [info] Extracted extension to /home/raven/.vscode/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-06-16 15:48:02.736] [sharedprocess] [info] Renamed to /home/raven/.vscode/extensions/ms-python.python-2020.5.86806
+[2020-06-16 15:48:02.745] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-16 15:48:02.823] [sharedprocess] [info] Extensions installed successfully: ms-python.python

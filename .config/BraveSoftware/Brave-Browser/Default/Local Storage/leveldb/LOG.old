@@ -1,0 +1,65 @@
+2020/06/10-17:11:56.318 e11 Reusing MANIFEST /home/raven/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/10-17:11:56.318 e11 Recovering log #25
+2020/06/10-17:11:56.318 e11 Level-0 table #29: started
+2020/06/10-17:11:56.353 e11 Level-0 table #29: 61017 bytes OK
+2020/06/10-17:11:56.388 e11 Delete type=0 #25
+2020/06/10-17:12:05.450 e88 Level-0 table #32: started
+2020/06/10-17:12:05.494 e88 Level-0 table #32: 60296 bytes OK
+2020/06/10-17:12:05.523 e88 Delete type=0 #30
+2020/06/10-17:16:17.358 e88 Level-0 table #34: started
+2020/06/10-17:16:17.403 e88 Level-0 table #34: 61118 bytes OK
+2020/06/10-17:16:17.436 e88 Delete type=0 #31
+2020/06/10-17:31:26.622 e88 Level-0 table #36: started
+2020/06/10-17:31:26.662 e88 Level-0 table #36: 62046 bytes OK
+2020/06/10-17:31:26.696 e88 Delete type=0 #33
+2020/06/10-17:31:26.696 e88 Compacting 4@0 + 1@1 files
+2020/06/10-17:31:26.729 e88 Generated table #37@0: 17 keys, 62423 bytes
+2020/06/10-17:31:26.729 e88 Compacted 4@0 + 1@1 files => 62423 bytes
+2020/06/10-17:31:26.763 e88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-17:31:26.763 e88 Delete type=2 #36
+2020/06/10-17:31:26.763 e88 Delete type=2 #27
+2020/06/10-17:31:26.763 e88 Delete type=2 #32
+2020/06/10-17:31:26.763 e88 Delete type=2 #34
+2020/06/10-17:31:26.763 e88 Delete type=2 #29
+2020/06/10-17:32:12.371 e88 Level-0 table #39: started
+2020/06/10-17:32:12.415 e88 Level-0 table #39: 62046 bytes OK
+2020/06/10-17:32:12.448 e88 Delete type=0 #35
+2020/06/10-17:54:05.868 e88 Level-0 table #41: started
+2020/06/10-17:54:05.912 e88 Level-0 table #41: 62668 bytes OK
+2020/06/10-17:54:05.947 e88 Delete type=0 #38
+2020/06/10-18:01:38.791 e88 Level-0 table #43: started
+2020/06/10-18:01:38.833 e88 Level-0 table #43: 62450 bytes OK
+2020/06/10-18:01:38.861 e88 Delete type=0 #40
+2020/06/10-18:08:31.326 e88 Level-0 table #45: started
+2020/06/10-18:08:31.363 e88 Level-0 table #45: 62281 bytes OK
+2020/06/10-18:08:31.391 e88 Delete type=0 #42
+2020/06/10-18:08:31.391 e88 Compacting 4@0 + 1@1 files
+2020/06/10-18:08:31.422 e88 Generated table #46@0: 19 keys, 62627 bytes
+2020/06/10-18:08:31.422 e88 Compacted 4@0 + 1@1 files => 62627 bytes
+2020/06/10-18:08:31.449 e88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-18:08:31.449 e88 Delete type=2 #45
+2020/06/10-18:08:31.449 e88 Delete type=2 #37
+2020/06/10-18:08:31.449 e88 Delete type=2 #43
+2020/06/10-18:08:31.449 e88 Delete type=2 #39
+2020/06/10-18:08:31.449 e88 Delete type=2 #41
+2020/06/16-13:08:55.825 e88 Level-0 table #48: started
+2020/06/16-13:08:55.896 e88 Level-0 table #48: 60603 bytes OK
+2020/06/16-13:08:55.923 e88 Delete type=0 #44
+2020/06/16-15:52:25.214 e88 Level-0 table #50: started
+2020/06/16-15:52:25.266 e88 Level-0 table #50: 68962 bytes OK
+2020/06/16-15:52:25.299 e88 Delete type=0 #47
+2020/06/16-15:58:30.416 e88 Level-0 table #52: started
+2020/06/16-15:58:30.474 e88 Level-0 table #52: 66657 bytes OK
+2020/06/16-15:58:30.503 e88 Delete type=0 #49
+2020/06/16-15:59:17.660 e88 Level-0 table #54: started
+2020/06/16-15:59:17.836 e88 Level-0 table #54: 62045 bytes OK
+2020/06/16-15:59:17.872 e88 Delete type=0 #51
+2020/06/16-15:59:17.872 e88 Compacting 4@0 + 1@1 files
+2020/06/16-15:59:17.903 e88 Generated table #55@0: 32 keys, 63538 bytes
+2020/06/16-15:59:17.903 e88 Compacted 4@0 + 1@1 files => 63538 bytes
+2020/06/16-15:59:17.930 e88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/16-15:59:17.930 e88 Delete type=2 #46
+2020/06/16-15:59:17.930 e88 Delete type=2 #52
+2020/06/16-15:59:17.930 e88 Delete type=2 #54
+2020/06/16-15:59:17.930 e88 Delete type=2 #50
+2020/06/16-15:59:17.930 e88 Delete type=2 #48

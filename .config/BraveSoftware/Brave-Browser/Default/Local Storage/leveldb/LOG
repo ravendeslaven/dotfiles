@@ -1,0 +1,30 @@
+2020/06/16-16:16:33.441 2ff Reusing MANIFEST /home/raven/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/16-16:16:33.442 2ff Recovering log #53
+2020/06/16-16:16:33.454 2ff Reusing old log /home/raven/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000053.log 
+2020/06/16-16:16:47.280 3a0 Level-0 table #58: started
+2020/06/16-16:16:47.375 3a0 Level-0 table #58: 61322 bytes OK
+2020/06/16-16:16:47.403 3a0 Delete type=0 #53
+2020/06/16-16:17:50.367 3a0 Level-0 table #60: started
+2020/06/16-16:17:50.404 3a0 Level-0 table #60: 61632 bytes OK
+2020/06/16-16:17:50.433 3a0 Delete type=0 #57
+2020/06/16-16:24:14.925 3a0 Level-0 table #62: started
+2020/06/16-16:24:14.997 3a0 Level-0 table #62: 60539 bytes OK
+2020/06/16-16:24:15.056 3a0 Delete type=0 #59
+2020/06/16-16:37:18.373 3a0 Level-0 table #64: started
+2020/06/16-16:37:18.465 3a0 Level-0 table #64: 337904 bytes OK
+2020/06/16-16:37:18.494 3a0 Delete type=0 #61
+2020/06/16-16:37:18.494 3a0 Compacting 4@0 + 1@1 files
+2020/06/16-16:37:18.548 3a0 Generated table #65@0: 66 keys, 398772 bytes
+2020/06/16-16:37:18.548 3a0 Compacted 4@0 + 1@1 files => 398772 bytes
+2020/06/16-16:37:18.577 3a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/16-16:37:18.577 3a0 Delete type=2 #64
+2020/06/16-16:37:18.577 3a0 Delete type=2 #62
+2020/06/16-16:37:18.577 3a0 Delete type=2 #55
+2020/06/16-16:37:18.577 3a0 Delete type=2 #58
+2020/06/16-16:37:18.577 3a0 Delete type=2 #60
+2020/06/16-16:38:39.965 3a0 Level-0 table #67: started
+2020/06/16-16:38:40.019 3a0 Level-0 table #67: 390477 bytes OK
+2020/06/16-16:38:40.053 3a0 Delete type=0 #63
+2020/06/16-17:35:26.718 3a0 Level-0 table #69: started
+2020/06/16-17:35:26.757 3a0 Level-0 table #69: 69896 bytes OK
+2020/06/16-17:35:26.790 3a0 Delete type=0 #66
